@@ -1,0 +1,1 @@
+The Hospital Appointment Scheduler is a web-based application that allows patients to easily book doctor appointments, check available time slots, and receive confirmation and reminder notifications. Doctors and admins can manage schedules through a dedicated dashboard.
